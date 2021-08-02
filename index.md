@@ -21,6 +21,7 @@ North Eastern Space Application Centre (NESAC), Umiam, Meghalaya | **Summer term
     1. Integrated Django as backend server with the python API to deploy Machine learning based algorithms.
     1. Currently writing a research paper regarding the high-level python API also.
  </ul>
+ <ul>
 ## Projects
 * Low-dose CT scan denoising with edge enhancing Vision Transformer  
     *Under the guidance of Mr. Santosh Yadav, PhD, BITS Pilani[June 2021 - Present]*
