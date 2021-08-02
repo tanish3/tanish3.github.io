@@ -6,11 +6,25 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-My name is Tanish Mittal. Currently, I am pursuing MSc. Physics and B.E. Computer Science in BITS Pilani, Pilani campus. I am interested in Deep learning and Physics as whole. I also have fair knowledge of data structures and algorithms. My preferred programming languages are Python, C++ and MATLAB.
+My name is Tanish Mittal. Currently, I am pursuing MSc. Physics and B.E. Computer Science in BITS Pilani, Pilani campus. I am interested in Deep learning and Physics. In Machine Learning, My current interest lies in Computer Vision and Deep Reinforcement Learning.  I also have fair knowledge of data structures and algorithms. My preferred programming languages are Python, C++ and MATLAB.
+
+## Experience
+North Eastern Space Application Centre (NESAC), Umiam, Meghalaya | Summer term
+Under the guidance of Sri Nilay Nishant, Engineer, NESAC [June 2021 - July 2021]
+1. Predicting map Segmentation of Built-up Area from Satellite Images
+    1. Created a dataset containing sentinel images of Indian cities and corresponding built-up mask.
+    1. Implemented a six level Attention-UNet model with self-trainable balanced Binary Cross Entropy loss function
+    1. Achieved an overall accuracy of 99.8%
+    1. Currently writing a Machine learning research paper for this project.
+1. Development of cloud native geoprocessing framework using open source tools
+    1. Developed a high-level open-source python API for doing complex computations on satellite images.
+    1. Integrated Django as backend server with the python API to deploy Machine learning based algorithms.
+    1. Currently writing a research paper regarding the high-level python API also.
 
 <!-- ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
 
 <!-- ## Publications
 
