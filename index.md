@@ -10,6 +10,7 @@ My name is Tanish Mittal. Currently, I am pursuing MSc. Physics and B.E. Compute
 
 ## Experience
 North Eastern Space Application Centre (NESAC), Umiam, Meghalaya | **Summer term**
+
 Under the guidance of Sri Nilay Nishant, Engineer, NESAC [June 2021 - July 2021]
 1. Predicting map Segmentation of Built-up Area from Satellite Images
     1. Created a dataset containing sentinel images of Indian cities and corresponding built-up mask.
