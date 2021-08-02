@@ -11,7 +11,7 @@ My name is Tanish Mittal. Currently, I am pursuing MSc. Physics and B.E. Compute
 ## Experience
 North Eastern Space Application Centre (NESAC), Umiam, Meghalaya | **Summer term**  
 *Under the guidance of Sri Nilay Nishant, Engineer, NESAC [June 2021 - July 2021]*
-<ul>
+
 * Predicting map Segmentation of Built-up Area from Satellite Images
     1. Created a dataset containing sentinel images of Indian cities and corresponding built-up mask.
     1. Implemented a six level Attention-UNet model with self-trainable balanced Binary Cross Entropy loss function
@@ -20,10 +20,10 @@ North Eastern Space Application Centre (NESAC), Umiam, Meghalaya | **Summer term
 * Development of cloud native geoprocessing framework using open source tools
     1. Developed a high-level open-source python API for doing complex computations on satellite images.
     1. Integrated Django as backend server with the python API to deploy Machine learning based algorithms.
-    1. Currently writing a research paper regarding the high-level python API also.
- </ul>
+    1. Currently writing a research paper regarding the high-level python API also.  
+  
 ## Projects
-<ul>
+
 * Low-dose CT scan denoising with edge enhancing Vision Transformer  
     *Under the guidance of Mr. Santosh Yadav, PhD, BITS Pilani[June 2021 - Present]*
     1. Used Low Dose CT Image and Projection Data by The Cancer Imaging Archive
@@ -35,7 +35,7 @@ North Eastern Space Application Centre (NESAC), Umiam, Meghalaya | **Summer term
    *Under the guidance of Dr. Kamlesh Tiwari, BITS Pilani and Dr. Heena Rathore, UT San Antonio [June 2021 - Present]*
     1. Carried a thorough literature review on Reinforcement Learning and COVID pandemic
     1. Proposed new methods involving Reinforcement learning for COVID Decision Support system
-</ul>
+
 <!-- ## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
