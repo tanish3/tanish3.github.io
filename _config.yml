@@ -1,7 +1,7 @@
 remote_theme: ankitsultana/researcher@gem
 title: Tanish Mittal
-url: "https://tanish3.github.io/researcher/"
-baseurl: "/researcher"
+url: "https://tanish3.github.io/"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
