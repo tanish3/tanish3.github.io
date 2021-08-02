@@ -3,12 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [tanishmittal0658@gmail.com](mailto:tanishmittal0658@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-7568819596](tel:+91-7568819596)
 
 ---
-
+<!-- 
 ## Mailing Address
 
 > 221B, Baker Street
@@ -17,10 +17,10 @@ is_contact: true
 >
 > United Kingdom
 
----
+--- -->
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [linkedin](https://www.linkedin.com/in/tanish-mittal/)
+2. [GitHub](https://github.com/tanish3)
+<!-- 3. [Researchgate](#) -->
